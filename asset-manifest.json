@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.283a7b60.css",
+    "main.js": "/static/js/main.91bb9f3b.js",
+    "static/js/787.b04bc4ed.chunk.js": "/static/js/787.b04bc4ed.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/BaiJamjuree-BoldItalic.ttf": "/static/media/BaiJamjuree-BoldItalic.48de72c56bc71a15f7d4.ttf",
+    "static/media/BaiJamjuree-Regular.ttf": "/static/media/BaiJamjuree-Regular.b6013786559eeb4c3543.ttf",
+    "static/media/BaiJamjuree-Bold.ttf": "/static/media/BaiJamjuree-Bold.da1cfc75e1ff64984f88.ttf",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/brand.svg": "/static/media/brand.44d662591c291e90f9071167da8a487e.svg",
+    "static/media/words.svg": "/static/media/words.44d662591c291e90f9071167da8a487e.svg",
+    "static/media/waveHeader.svg": "/static/media/waveHeader.f9c865bdbf524be3d7f7.svg",
+    "index.html": "/index.html",
+    "static/media/waveFooter.svg": "/static/media/waveFooter.39f6a6c95cb82a30411b.svg",
+    "main.283a7b60.css.map": "/static/css/main.283a7b60.css.map",
+    "main.91bb9f3b.js.map": "/static/js/main.91bb9f3b.js.map",
+    "787.b04bc4ed.chunk.js.map": "/static/js/787.b04bc4ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.283a7b60.css",
+    "static/js/main.91bb9f3b.js"
+  ]
+}

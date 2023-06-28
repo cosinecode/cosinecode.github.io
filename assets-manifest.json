@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.css",
-  "main.js": "/static/js/main.d8f235fccacbf05b51f3.js",
-  "runtime~main.js": "/static/js/runtime~main.864fee27cb9c6d5d83a4.js",
+  "main.js": "/static/js/main.bundle.js",
+  "runtime.js": "/static/js/runtime.bundle.js",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.svg?v=4.7.0",
   "favicon.ico": "/favicon.ico",
   "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.eot",

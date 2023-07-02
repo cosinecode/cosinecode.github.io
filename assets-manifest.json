@@ -1,6 +1,6 @@
 {
   "main.css": "/assets/css/main.2a379d.css",
-  "main.js": "/assets/js/main.5449fe.js",
+  "main.js": "/assets/js/main.6ee7da.js",
   "runtime.js": "/assets/js/runtime.ecbb94.js",
   "favicon.ico": "/favicon.ico",
   "assets/media/brand.svg": "/assets/media/brand.svg",
@@ -37,6 +37,7 @@
   "assets/media/IcDown.png": "/assets/media/IcDown.png",
   "assets/media/ImgLaptop.png": "/assets/media/ImgLaptop.png",
   "manifest.json": "/manifest.json",
+  "assets/media/faBars.png": "/assets/media/faBars.png",
   "sitemap.txt": "/sitemap.txt",
   "robots.txt": "/robots.txt"
 }

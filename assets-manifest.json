@@ -1,5 +1,5 @@
 {
-  "main.css": "/static/css/main.57e598.css",
+  "main.css": "/static/css/main.d12185.css",
   "main.js": "/static/js/main.839fb1.js",
   "runtime.js": "/static/js/runtime.ecbb94.js",
   "favicon.ico": "/favicon.ico",
@@ -9,7 +9,6 @@
   "index.html": "/index.html",
   "404.html": "/404.html",
   "static/media/jpg": "/static/media/577e440308509ff04071dc7943aa4661e9c581ab30f966baeca7543cb1686cd8.jpg",
-  "static/media/waveHeader.svg": "/static/media/waveHeader.svg",
   "static/media/bca.png": "/static/media/bca.png",
   "static/media/bni.png": "/static/media/bni.png",
   "static/media/paypal.png": "/static/media/paypal.png",
@@ -25,7 +24,6 @@
   "static/media/faJs.png": "/static/media/faJs.png",
   "static/media/IcFacebook.png": "/static/media/IcFacebook.png",
   "static/media/IcTelp.png": "/static/media/IcTelp.png",
-  "static/media/waveFooter.svg": "/static/media/waveFooter.svg",
   "static/media/IcTwitter.png": "/static/media/IcTwitter.png",
   "static/media/IcLocation.png": "/static/media/IcLocation.png",
   "static/media/IcCalendar.png": "/static/media/IcCalendar.png",

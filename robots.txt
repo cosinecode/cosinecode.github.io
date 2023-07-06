@@ -1,4 +1,2 @@
 User-agent: *
 Sitemap: https://cosinecode.com/sitemap.txt
-Disalow:/static/css/*
-Disalow:/static/js/*

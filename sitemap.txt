@@ -1,4 +1,4 @@
 https://cosinecode.com/
-https://cosinecode.com/pricing
-https://cosinecode.com/contact-us
-https://cosinecode.com/faq
+https://cosinecode.com/page=pricing
+https://cosinecode.com/page=contact-us
+https://cosinecode.com/page=faq

@@ -37,6 +37,5 @@
   "manifest.json": "/manifest.json",
   "static/media/faBars.png": "/static/media/faBars.png",
   "sitemap.txt": "/sitemap.txt",
-  "robots.txt": "/robots.txt",
-  ".nojekyll/.nojekyll": "/.nojekyll/.nojekyll"
+  "robots.txt": "/robots.txt"
 }

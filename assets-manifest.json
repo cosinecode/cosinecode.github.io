@@ -1,6 +1,6 @@
 {
-  "main.css": "/static/css/main.11e439.css",
-  "main.js": "/static/js/main.e89f25.js",
+  "main.css": "/static/css/main.98fe28.css",
+  "main.js": "/static/js/main.95a2f2.js",
   "runtime.js": "/static/js/runtime.ecbb94.js",
   "favicon.ico": "/favicon.ico",
   "static/media/png": "/static/media/ee6867ce220d3df2d8718c16b0b47d073b5873043aef7e24ec857ce7f437404.png",
@@ -18,9 +18,9 @@
   "static/media/ImgWeb.png": "/static/media/ImgWeb.png",
   "static/media/faNode.png": "/static/media/faNode.png",
   "static/media/faHtml5.png": "/static/media/faHtml5.png",
+  "static/media/IcAlphabet.png": "/static/media/IcAlphabet.png",
   "static/media/ImgAndroid.png": "/static/media/ImgAndroid.png",
   "static/media/IcInstagram.png": "/static/media/IcInstagram.png",
-  "static/media/IcAlphabet.png": "/static/media/IcAlphabet.png",
   "static/media/faJs.png": "/static/media/faJs.png",
   "static/media/IcFacebook.png": "/static/media/IcFacebook.png",
   "static/media/IcUp.png": "/static/media/IcUp.png",
@@ -36,6 +36,7 @@
   "static/media/ImgLaptop.png": "/static/media/ImgLaptop.png",
   "manifest.json": "/manifest.json",
   "static/media/faBars.png": "/static/media/faBars.png",
+  "sitemap.txt": "/sitemap.txt",
   "robots.txt": "/robots.txt",
-  "sitemap.txt": "/sitemap.txt"
+  ".nojekyll/.nojekyll": "/.nojekyll/.nojekyll"
 }

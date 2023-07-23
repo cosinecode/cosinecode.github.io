@@ -1,2 +1,3 @@
 User-agent: *
-Sitemap: https://cosinecode.com/sitemap.txt
+Allow: /sitemap.xml
+Sitemap: https://cosinecode.com/sitemap.xml

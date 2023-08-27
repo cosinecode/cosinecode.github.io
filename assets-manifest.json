@@ -1,6 +1,6 @@
 {
   "main.css": "/static/css/main.ab4257b9.css",
-  "main.js": "/static/js/main.86c0d749.js",
+  "main.js": "/static/js/main.ae95bf6c.js",
   "runtime.js": "/static/js/runtime.fa9dada8.js",
   "static/media/png": "/static/media/ee6867ce220d3df2d8718c16b0b47d073b5873043aef7e24ec857ce7f437404.png",
   "static/media/BaiJamjuree-Regular.woff2": "/static/media/BaiJamjuree-Regular.woff2",
@@ -37,6 +37,7 @@
   "static/media/IcYoutube.png": "/static/media/IcYoutube.png",
   "service-worker.js": "/service-worker.js",
   "static/media/IcLocation.png": "/static/media/IcLocation.png",
+  "static/media/IcLinkedin.png": "/static/media/IcLinkedin.png",
   "static/media/IcCalendar.png": "/static/media/IcCalendar.png",
   "static/media/IcDown.png": "/static/media/IcDown.png",
   "static/media/IcCheck.png": "/static/media/IcCheck.png",
